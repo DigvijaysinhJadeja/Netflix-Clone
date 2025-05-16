@@ -11,9 +11,6 @@ This project is a simple static representation of Netflix's user interface, crea
 - Responsive design for desktop users
 - Static representation of movie/TV show cards
 
-## Getting Started
-
-To view the Netflix Clone locally, follow these steps:
 
 1. Clone the repository:
 
